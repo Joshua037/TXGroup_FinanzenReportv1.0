@@ -83,10 +83,16 @@
   color:#000000;
   text-align:left;
 }
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
 .table_cell {
+}
+._连接线 {
 }
 .form_hint {
   color:#999999;

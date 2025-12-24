@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="452px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="227.69892473118276" cy="9.032258064516121" r="214.70000000000002" gradientTransform="matrix(-1 1.6547338979042854E-16 -1.464366281331225E-17 -0.08849557522123887 455.3978494623655 9.831572937482113 )" gradientUnits="userSpaceOnUse" id="RadialGradient683">
-      <stop id="Stop684" stop-color="#f4e494" offset="0" />
-      <stop id="Stop685" stop-color="#e1b766" offset="1" />
+    <radialGradient cx="227.69892473118276" cy="9.032258064516121" r="214.70000000000002" gradientTransform="matrix(-1 1.6547338979042854E-16 -1.464366281331225E-17 -0.08849557522123887 455.3978494623655 9.831572937482113 )" gradientUnits="userSpaceOnUse" id="RadialGradient875">
+      <stop id="Stop876" stop-color="#f4e494" offset="0" />
+      <stop id="Stop877" stop-color="#e1b766" offset="1" />
     </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip686">
+    <mask fill="white" id="Clip878">
       <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 447 0  C 449.8 0  452 2.1999999999999997  452 5  L 452 40  L 0 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -68 -390 )">
-    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 447 0  C 449.8 0  452 2.1999999999999997  452 5  L 452 40  L 0 40  Z " fill-rule="nonzero" fill="url(#RadialGradient683)" stroke="none" transform="matrix(1 0 0 1 68 390 )" class="fill" />
-    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 447 0  C 449.8 0  452 2.1999999999999997  452 5  L 452 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 68 390 )" class="stroke" mask="url(#Clip686)" />
+    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 447 0  C 449.8 0  452 2.1999999999999997  452 5  L 452 40  L 0 40  Z " fill-rule="nonzero" fill="url(#RadialGradient875)" stroke="none" transform="matrix(1 0 0 1 68 390 )" class="fill" />
+    <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 447 0  C 449.8 0  452 2.1999999999999997  452 5  L 452 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 68 390 )" class="stroke" mask="url(#Clip878)" />
   </g>
 </svg>

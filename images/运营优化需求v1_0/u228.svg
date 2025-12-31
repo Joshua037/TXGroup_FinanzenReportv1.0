@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="34px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="12.267399267399254" cy="19.450549450549488" r="53.16580281027555" gradientTransform="matrix(-0.226498564593301 0 -0 -1 15.045947592758097 38.901098901098976 )" gradientUnits="userSpaceOnUse" id="RadialGradient1194">
-      <stop id="Stop1195" stop-color="#ffffff" offset="0" />
-      <stop id="Stop1196" stop-color="#e6dca2" offset="1" />
+    <radialGradient cx="12.267399267399254" cy="19.450549450549488" r="53.16580281027555" gradientTransform="matrix(-0.226498564593301 0 -0 -1 15.045947592758097 38.901098901098976 )" gradientUnits="userSpaceOnUse" id="RadialGradient131">
+      <stop id="Stop132" stop-color="#ffffff" offset="0" />
+      <stop id="Stop133" stop-color="#e6dca2" offset="1" />
     </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip1197">
+    <mask fill="white" id="Clip134">
       <path d="M 0 38  L 0 2  C 0 0.8799999999999999  0.8799999999999999 0  2 0  L 32 0  C 33.12 0  34 0.8799999999999999  34 2  L 34 38  C 34 39.12  33.12 40  32 40  L 2 40  C 0.8799999999999999 40  0 39.12  0 38  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -330 -105 )">
-    <path d="M 0 38  L 0 2  C 0 0.8799999999999999  0.8799999999999999 0  2 0  L 32 0  C 33.12 0  34 0.8799999999999999  34 2  L 34 38  C 34 39.12  33.12 40  32 40  L 2 40  C 0.8799999999999999 40  0 39.12  0 38  Z " fill-rule="nonzero" fill="url(#RadialGradient1194)" stroke="none" transform="matrix(1 0 0 1 330 105 )" class="fill" />
-    <path d="M 0 38  L 0 2  C 0 0.8799999999999999  0.8799999999999999 0  2 0  L 32 0  C 33.12 0  34 0.8799999999999999  34 2  L 34 38  C 34 39.12  33.12 40  32 40  L 2 40  C 0.8799999999999999 40  0 39.12  0 38  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(163, 103, 23, 1)" fill="none" transform="matrix(1 0 0 1 330 105 )" class="stroke" mask="url(#Clip1197)" />
+    <path d="M 0 38  L 0 2  C 0 0.8799999999999999  0.8799999999999999 0  2 0  L 32 0  C 33.12 0  34 0.8799999999999999  34 2  L 34 38  C 34 39.12  33.12 40  32 40  L 2 40  C 0.8799999999999999 40  0 39.12  0 38  Z " fill-rule="nonzero" fill="url(#RadialGradient131)" stroke="none" transform="matrix(1 0 0 1 330 105 )" class="fill" />
+    <path d="M 0 38  L 0 2  C 0 0.8799999999999999  0.8799999999999999 0  2 0  L 32 0  C 33.12 0  34 0.8799999999999999  34 2  L 34 38  C 34 39.12  33.12 40  32 40  L 2 40  C 0.8799999999999999 40  0 39.12  0 38  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(163, 103, 23, 1)" fill="none" transform="matrix(1 0 0 1 330 105 )" class="stroke" mask="url(#Clip134)" />
   </g>
 </svg>

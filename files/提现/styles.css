@@ -7463,7 +7463,7 @@
   font-style:normal;
   font-size:12px;
   letter-spacing:normal;
-  color:#000000;
+  color:#D8BEF0;
   vertical-align:none;
   text-align:left;
   text-transform:none;
@@ -7501,7 +7501,7 @@
   font-style:normal;
   font-size:12px;
   letter-spacing:normal;
-  color:#000000;
+  color:#D8BEF0;
   vertical-align:none;
   text-align:left;
   text-transform:none;
@@ -7547,6 +7547,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  color:#D8BEF0;
 }
 #u1654 {
   border-width:0px;
@@ -7562,6 +7563,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  color:#D8BEF0;
 }
 #u1654 .text {
   position:absolute;
@@ -7590,6 +7592,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  color:#D8BEF0;
 }
 #u1654.hint {
 }
@@ -7613,6 +7616,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  color:#D8BEF0;
 }
 #u1654.disabled {
 }
@@ -7636,6 +7640,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
+  color:#D8BEF0;
 }
 #u1654.hint.disabled {
 }

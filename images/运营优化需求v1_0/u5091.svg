@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="805px" height="96px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="72.71592896469808" y1="47.10361581920904" x2="694.8410989960054" y2="48.397514124293906" id="LinearGradient3396">
-      <stop id="Stop3397" stop-color="#4a3486" offset="0" />
-      <stop id="Stop3398" stop-color="#372562" offset="0.27" />
-      <stop id="Stop3399" stop-color="#928dd6" offset="0.44" />
-      <stop id="Stop3400" stop-color="#8784d1" offset="0.65" />
-      <stop id="Stop3401" stop-color="#873b56" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="72.71592896469808" y1="47.10361581920904" x2="694.8410989960054" y2="48.397514124293906" id="LinearGradient5256">
+      <stop id="Stop5257" stop-color="#4a3486" offset="0" />
+      <stop id="Stop5258" stop-color="#372562" offset="0.27" />
+      <stop id="Stop5259" stop-color="#928dd6" offset="0.44" />
+      <stop id="Stop5260" stop-color="#8784d1" offset="0.65" />
+      <stop id="Stop5261" stop-color="#873b56" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip3402">
+    <mask fill="white" id="Clip5262">
       <path d="M 0 96  L 0 0  L 805 0  L 805 96  L 0 96  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 0 -43 )">
-    <path d="M 0 96  L 0 0  L 805 0  L 805 96  L 0 96  Z " fill-rule="nonzero" fill="url(#LinearGradient3396)" stroke="none" transform="matrix(1 0 0 1 0 43 )" class="fill" />
-    <path d="M 0 96  L 0 0  L 805 0  L 805 96  L 0 96  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 0 43 )" class="stroke" mask="url(#Clip3402)" />
+    <path d="M 0 96  L 0 0  L 805 0  L 805 96  L 0 96  Z " fill-rule="nonzero" fill="url(#LinearGradient5256)" stroke="none" transform="matrix(1 0 0 1 0 43 )" class="fill" />
+    <path d="M 0 96  L 0 0  L 805 0  L 805 96  L 0 96  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 0 43 )" class="stroke" mask="url(#Clip5262)" />
   </g>
 </svg>

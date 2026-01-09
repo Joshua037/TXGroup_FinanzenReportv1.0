@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="81px" height="25px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="40.5" y1="0" x2="40.5" y2="25" id="LinearGradient3047">
-      <stop id="Stop3048" stop-color="#f1ecfe" offset="0" />
-      <stop id="Stop3049" stop-color="#9f8fe8" offset="0.24" />
-      <stop id="Stop3050" stop-color="#6d6cc3" offset="0.43" />
-      <stop id="Stop3051" stop-color="#6d6cc4" offset="0.67" />
-      <stop id="Stop3052" stop-color="#a594e9" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="40.5" y1="0" x2="40.5" y2="25" id="LinearGradient4907">
+      <stop id="Stop4908" stop-color="#f1ecfe" offset="0" />
+      <stop id="Stop4909" stop-color="#9f8fe8" offset="0.24" />
+      <stop id="Stop4910" stop-color="#6d6cc3" offset="0.43" />
+      <stop id="Stop4911" stop-color="#6d6cc4" offset="0.67" />
+      <stop id="Stop4912" stop-color="#a594e9" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip3053">
+    <mask fill="white" id="Clip4913">
       <path d="M 0 20  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 76 0  C 78.8 0  81 2.1999999999999997  81 5  L 81 20  C 81 22.8  78.8 25  76 25  L 5 25  C 2.1999999999999997 25  0 22.8  0 20  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g>
-    <path d="M 0 20  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 76 0  C 78.8 0  81 2.1999999999999997  81 5  L 81 20  C 81 22.8  78.8 25  76 25  L 5 25  C 2.1999999999999997 25  0 22.8  0 20  Z " fill-rule="nonzero" fill="url(#LinearGradient3047)" stroke="none" class="fill" />
-    <path d="M 0 20  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 76 0  C 78.8 0  81 2.1999999999999997  81 5  L 81 20  C 81 22.8  78.8 25  76 25  L 5 25  C 2.1999999999999997 25  0 22.8  0 20  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip3053)" />
+    <path d="M 0 20  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 76 0  C 78.8 0  81 2.1999999999999997  81 5  L 81 20  C 81 22.8  78.8 25  76 25  L 5 25  C 2.1999999999999997 25  0 22.8  0 20  Z " fill-rule="nonzero" fill="url(#LinearGradient4907)" stroke="none" class="fill" />
+    <path d="M 0 20  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 76 0  C 78.8 0  81 2.1999999999999997  81 5  L 81 20  C 81 22.8  78.8 25  76 25  L 5 25  C 2.1999999999999997 25  0 22.8  0 20  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip4913)" />
   </g>
 </svg>

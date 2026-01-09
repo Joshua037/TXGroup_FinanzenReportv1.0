@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="67px" height="19px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="33.5" y1="0" x2="33.5" y2="19" id="LinearGradient2701">
+      <stop id="Stop2702" stop-color="#fbfdc4" offset="0" />
+      <stop id="Stop2703" stop-color="#eccb6b" offset="0.56" />
+      <stop id="Stop2704" stop-color="#c68940" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="33.5" y1="0" x2="33.5" y2="19" id="LinearGradient2705">
+      <stop id="Stop2706" stop-color="#f0eaaf" offset="0" />
+      <stop id="Stop2707" stop-color="#c7aa48" offset="0.19" />
+      <stop id="Stop2708" stop-color="#a2702a" offset="0.4" />
+      <stop id="Stop2709" stop-color="#9b6624" offset="0.65" />
+      <stop id="Stop2710" stop-color="#c19e36" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="Clip2711">
+      <path d="M 0 14.000000000000002  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 62 0  C 64.8 0  67 2.1999999999999997  67 5  L 67 14.000000000000002  C 67 16.8  64.8 19  62 19  L 5 19  C 2.1999999999999993 19  0 16.8  0 14.000000000000002  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -601 -64 )">
+    <path d="M 0 14.000000000000002  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 62 0  C 64.8 0  67 2.1999999999999997  67 5  L 67 14.000000000000002  C 67 16.8  64.8 19  62 19  L 5 19  C 2.1999999999999993 19  0 16.8  0 14.000000000000002  Z " fill-rule="nonzero" fill="url(#LinearGradient2701)" stroke="none" transform="matrix(1 0 0 1 601 64 )" class="fill" />
+    <path d="M 0 14.000000000000002  L 0 5  C 0 2.1999999999999997  2.1999999999999993 0  5 0  L 62 0  C 64.8 0  67 2.1999999999999997  67 5  L 67 14.000000000000002  C 67 16.8  64.8 19  62 19  L 5 19  C 2.1999999999999993 19  0 16.8  0 14.000000000000002  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient2705)" fill="none" transform="matrix(1 0 0 1 601 64 )" class="stroke" mask="url(#Clip2711)" />
+  </g>
+</svg>

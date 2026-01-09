@@ -1,18 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="26px" height="26px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="13" y1="0" x2="13" y2="26" id="LinearGradient1733">
-      <stop id="Stop1734" stop-color="#facd91" offset="0" />
-      <stop id="Stop1735" stop-color="#f59a23" offset="0.61" />
-      <stop id="Stop1736" stop-color="#a36717" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="15" y1="0" x2="15" y2="30" id="LinearGradient2482">
+      <stop id="Stop2483" stop-color="#eee5b2" offset="0" />
+      <stop id="Stop2484" stop-color="#f2f2f2" offset="0.16" />
+      <stop id="Stop2485" stop-color="#a36717" offset="0.55" />
+      <stop id="Stop2486" stop-color="#d7d7d7" offset="0.82" />
+      <stop id="Stop2487" stop-color="#583707" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip1737">
-      <path d="M 0 13  C 0 5.719999999999999  5.719999999999999 0  13 0  C 20.28 0  26 5.719999999999999  26 13  C 26 20.28  20.28 26  13 26  C 5.719999999999999 26  0 20.28  0 13  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip2488">
+      <path d="M 0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  C 6.6 30  0 23.400000000000002  0 15  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -2 -2 )">
-    <path d="M 0 13  C 0 5.719999999999999  5.719999999999999 0  13 0  C 20.28 0  26 5.719999999999999  26 13  C 26 20.28  20.28 26  13 26  C 5.719999999999999 26  0 20.28  0 13  Z " fill-rule="nonzero" fill="url(#LinearGradient1733)" stroke="none" transform="matrix(1 0 0 1 2 2 )" class="fill" />
-    <path d="M 0 13  C 0 5.719999999999999  5.719999999999999 0  13 0  C 20.28 0  26 5.719999999999999  26 13  C 26 20.28  20.28 26  13 26  C 5.719999999999999 26  0 20.28  0 13  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 2 2 )" class="stroke" mask="url(#Clip1737)" />
+  <g>
+    <path d="M 0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  C 6.6 30  0 23.400000000000002  0 15  Z " fill-rule="nonzero" fill="url(#LinearGradient2482)" stroke="none" class="fill" />
+    <path d="M 0 15  C 0 6.6  6.6 0  15 0  C 23.400000000000002 0  30 6.6  30 15  C 30 23.400000000000002  23.400000000000002 30  15 30  C 6.6 30  0 23.400000000000002  0 15  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip2488)" />
   </g>
 </svg>

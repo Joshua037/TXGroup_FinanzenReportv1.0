@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="26px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="25" y1="0" x2="25" y2="26" id="LinearGradient640">
-      <stop id="Stop641" stop-color="#8f8bc9" offset="0" />
-      <stop id="Stop642" stop-color="#8e87d2" offset="0.87" />
-      <stop id="Stop643" stop-color="#c4bfec" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="25" y1="0" x2="25" y2="26" id="LinearGradient1392">
+      <stop id="Stop1393" stop-color="#8f8bc9" offset="0" />
+      <stop id="Stop1394" stop-color="#8e87d2" offset="0.87" />
+      <stop id="Stop1395" stop-color="#c4bfec" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip644">
+    <mask fill="white" id="Clip1396">
       <path d="M 50 26  L 0 26  C 0 11.439999999999998  10.999999999999998 0  25 0  C 39 0  50 11.439999999999998  50 26  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -303 -1224 )">
-    <path d="M 50 26  L 0 26  C 0 11.439999999999998  10.999999999999998 0  25 0  C 39 0  50 11.439999999999998  50 26  Z " fill-rule="nonzero" fill="url(#LinearGradient640)" stroke="none" transform="matrix(1 0 0 1 303 1224 )" class="fill" />
-    <path d="M 50 26  L 0 26  C 0 11.439999999999998  10.999999999999998 0  25 0  C 39 0  50 11.439999999999998  50 26  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 303 1224 )" class="stroke" mask="url(#Clip644)" />
+    <path d="M 50 26  L 0 26  C 0 11.439999999999998  10.999999999999998 0  25 0  C 39 0  50 11.439999999999998  50 26  Z " fill-rule="nonzero" fill="url(#LinearGradient1392)" stroke="none" transform="matrix(1 0 0 1 303 1224 )" class="fill" />
+    <path d="M 50 26  L 0 26  C 0 11.439999999999998  10.999999999999998 0  25 0  C 39 0  50 11.439999999999998  50 26  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 303 1224 )" class="stroke" mask="url(#Clip1396)" />
   </g>
 </svg>

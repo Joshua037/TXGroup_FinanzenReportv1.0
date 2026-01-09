@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="380px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="190" cy="20" r="182.4" gradientTransform="matrix(-1 0 -0 -0.10526315789473684 380 22.105263157894736 )" gradientUnits="userSpaceOnUse" id="RadialGradient772">
-      <stop id="Stop773" stop-color="#fde97c" offset="0" />
-      <stop id="Stop774" stop-color="#d7915b" offset="1" />
+    <radialGradient cx="190" cy="20" r="182.4" gradientTransform="matrix(-1 0 -0 -0.10526315789473684 380 22.105263157894736 )" gradientUnits="userSpaceOnUse" id="RadialGradient1524">
+      <stop id="Stop1525" stop-color="#fde97c" offset="0" />
+      <stop id="Stop1526" stop-color="#d7915b" offset="1" />
     </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="190" y1="0" x2="190" y2="40" id="LinearGradient775">
-      <stop id="Stop776" stop-color="#f1ecfe" offset="0" />
-      <stop id="Stop777" stop-color="#9f8fe8" offset="0.24" />
-      <stop id="Stop778" stop-color="#6d6cc3" offset="0.43" />
-      <stop id="Stop779" stop-color="#6d6cc4" offset="0.67" />
-      <stop id="Stop780" stop-color="#a594e9" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="190" y1="0" x2="190" y2="40" id="LinearGradient1527">
+      <stop id="Stop1528" stop-color="#f1ecfe" offset="0" />
+      <stop id="Stop1529" stop-color="#9f8fe8" offset="0.24" />
+      <stop id="Stop1530" stop-color="#6d6cc3" offset="0.43" />
+      <stop id="Stop1531" stop-color="#6d6cc4" offset="0.67" />
+      <stop id="Stop1532" stop-color="#a594e9" offset="1" />
     </linearGradient>
-    <mask fill="white" id="Clip781">
+    <mask fill="white" id="Clip1533">
       <path d="M 20 40  C 8.799999999999997 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999997 0  20 0  L 360 0  C 371.20000000000005 0  380 8.799999999999999  380 20  C 380 31.200000000000003  371.20000000000005 40  360 40  L 20 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -222 -364 )">
-    <path d="M 20 40  C 8.799999999999997 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999997 0  20 0  L 360 0  C 371.20000000000005 0  380 8.799999999999999  380 20  C 380 31.200000000000003  371.20000000000005 40  360 40  L 20 40  Z " fill-rule="nonzero" fill="url(#RadialGradient772)" stroke="none" transform="matrix(1 0 0 1 222 364 )" class="fill" />
-    <path d="M 20 40  C 8.799999999999997 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999997 0  20 0  L 360 0  C 371.20000000000005 0  380 8.799999999999999  380 20  C 380 31.200000000000003  371.20000000000005 40  360 40  L 20 40  Z " stroke-width="4" stroke-dasharray="0" stroke="url(#LinearGradient775)" fill="none" transform="matrix(1 0 0 1 222 364 )" class="stroke" mask="url(#Clip781)" />
+    <path d="M 20 40  C 8.799999999999997 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999997 0  20 0  L 360 0  C 371.20000000000005 0  380 8.799999999999999  380 20  C 380 31.200000000000003  371.20000000000005 40  360 40  L 20 40  Z " fill-rule="nonzero" fill="url(#RadialGradient1524)" stroke="none" transform="matrix(1 0 0 1 222 364 )" class="fill" />
+    <path d="M 20 40  C 8.799999999999997 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999997 0  20 0  L 360 0  C 371.20000000000005 0  380 8.799999999999999  380 20  C 380 31.200000000000003  371.20000000000005 40  360 40  L 20 40  Z " stroke-width="4" stroke-dasharray="0" stroke="url(#LinearGradient1527)" fill="none" transform="matrix(1 0 0 1 222 364 )" class="stroke" mask="url(#Clip1533)" />
   </g>
 </svg>

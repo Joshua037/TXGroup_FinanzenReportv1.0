@@ -1,19 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="579px" height="60px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="700px" height="21px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="29.9523809523809" x2="579" y2="31.539682539682516" id="LinearGradient1080">
-      <stop id="Stop1081" stop-color="#46317f" offset="0" />
-      <stop id="Stop1082" stop-color="#7876c9" offset="0.27" />
-      <stop id="Stop1083" stop-color="#473280" offset="0.7" />
-      <stop id="Stop1084" stop-color="#392665" offset="1" />
-    </linearGradient>
+    <radialGradient cx="349.99999999999994" cy="10.500000000000298" r="350.00000000000034" gradientTransform="matrix(-1 0 -0 -0.24535108958837834 699.9999999999999 13.076186440678345 )" gradientUnits="userSpaceOnUse" id="RadialGradient1842">
+      <stop id="Stop1843" stop-color="#d3caf6" offset="0" />
+      <stop id="Stop1844" stop-color="#716fc6" offset="0.52" />
+      <stop id="Stop1845" stop-color="#372562" offset="1" />
+    </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip1085">
-      <path d="M 0 60  L 0 0  L 579 0  L 579 60  L 0 60  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip1846">
+      <path d="M 0 21  L 0 5  C 0 2.1999999999999993  2.1999999999999997 0  5 0  L 695 0  C 697.8000000000001 0  700 2.1999999999999993  700 5  L 700 21  L 0 21  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -210 -311 )">
-    <path d="M 0 60  L 0 0  L 579 0  L 579 60  L 0 60  Z " fill-rule="nonzero" fill="url(#LinearGradient1080)" stroke="none" transform="matrix(1 0 0 1 210 311 )" class="fill" />
-    <path d="M 0 60  L 0 0  L 579 0  L 579 60  L 0 60  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 210 311 )" class="stroke" mask="url(#Clip1085)" />
+  <g transform="matrix(1 0 0 1 -45 0 )">
+    <path d="M 0 21  L 0 5  C 0 2.1999999999999993  2.1999999999999997 0  5 0  L 695 0  C 697.8000000000001 0  700 2.1999999999999993  700 5  L 700 21  L 0 21  Z " fill-rule="nonzero" fill="url(#RadialGradient1842)" stroke="none" transform="matrix(1 0 0 1 45 0 )" class="fill" />
+    <path d="M 0 21  L 0 5  C 0 2.1999999999999993  2.1999999999999997 0  5 0  L 695 0  C 697.8000000000001 0  700 2.1999999999999993  700 5  L 700 21  L 0 21  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 45 0 )" class="stroke" mask="url(#Clip1846)" />
   </g>
 </svg>

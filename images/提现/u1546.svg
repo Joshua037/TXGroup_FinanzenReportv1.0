@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="184px" height="52px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="92" y1="0" x2="92" y2="52" id="LinearGradient698">
+      <stop id="Stop699" stop-color="#f1ecfe" offset="0" />
+      <stop id="Stop700" stop-color="#9f8fe8" offset="0.24" />
+      <stop id="Stop701" stop-color="#6d6cc3" offset="0.43" />
+      <stop id="Stop702" stop-color="#6d6cc4" offset="0.67" />
+      <stop id="Stop703" stop-color="#a594e9" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="92" y1="0" x2="92" y2="52" id="LinearGradient704">
+      <stop id="Stop705" stop-color="#e1dafb" offset="0" />
+      <stop id="Stop706" stop-color="#6f6ec5" offset="0.44" />
+      <stop id="Stop707" stop-color="#cec8f2" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="Clip708">
+      <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -81 -1010 )">
+    <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient698)" stroke="none" transform="matrix(1 0 0 1 81 1010 )" class="fill" />
+    <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " stroke-width="6" stroke-dasharray="0" stroke="url(#LinearGradient704)" fill="none" transform="matrix(1 0 0 1 81 1010 )" class="stroke" mask="url(#Clip708)" />
+  </g>
+</svg>

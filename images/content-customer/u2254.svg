@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="70" y1="6" x2="70" y2="50" id="LinearGradient2439">
-      <stop id="Stop2440" stop-color="#decf7d" offset="0" />
-      <stop id="Stop2441" stop-color="#9e6a27" offset="0.3" />
-      <stop id="Stop2442" stop-color="#9b6624" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="70" y1="6" x2="70" y2="50" id="LinearGradient3195">
+      <stop id="Stop3196" stop-color="#decf7d" offset="0" />
+      <stop id="Stop3197" stop-color="#9e6a27" offset="0.3" />
+      <stop id="Stop3198" stop-color="#9b6624" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="70" y2="50" id="LinearGradient2443">
-      <stop id="Stop2444" stop-color="#f5f4df" offset="0" />
-      <stop id="Stop2445" stop-color="#c7ab7a" offset="0.24" />
-      <stop id="Stop2446" stop-color="#a27029" offset="0.44" />
-      <stop id="Stop2447" stop-color="#a28438" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="70" y2="50" id="LinearGradient3199">
+      <stop id="Stop3200" stop-color="#f5f4df" offset="0" />
+      <stop id="Stop3201" stop-color="#c7ab7a" offset="0.24" />
+      <stop id="Stop3202" stop-color="#a27029" offset="0.44" />
+      <stop id="Stop3203" stop-color="#a28438" offset="1" />
     </linearGradient>
-    <mask fill="white" id="Clip2448">
+    <mask fill="white" id="Clip3204">
       <path d="M 0 37  L 0 13  C 0 5.72  5.72 0  13 0  L 127 0  C 134.28 0  140 5.72  140 13  L 140 37  C 140 44.28  134.28 50  127 50  L 13 50  C 5.72 50  0 44.28  0 37  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g>
-    <path d="M 0 37  L 0 13  C 0 5.72  5.72 0  13 0  L 127 0  C 134.28 0  140 5.72  140 13  L 140 37  C 140 44.28  134.28 50  127 50  L 13 50  C 5.72 50  0 44.28  0 37  Z " fill-rule="nonzero" fill="url(#LinearGradient2439)" stroke="none" class="fill" />
-    <path d="M 0 37  L 0 13  C 0 5.72  5.72 0  13 0  L 127 0  C 134.28 0  140 5.72  140 13  L 140 37  C 140 44.28  134.28 50  127 50  L 13 50  C 5.72 50  0 44.28  0 37  Z " stroke-width="8" stroke-dasharray="0" stroke="url(#LinearGradient2443)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 0 37  L 0 13  C 0 5.72  5.72 0  13 0  L 127 0  C 134.28 0  140 5.72  140 13  L 140 37  C 140 44.28  134.28 50  127 50  L 13 50  C 5.72 50  0 44.28  0 37  Z " fill-rule="nonzero" fill="url(#LinearGradient3195)" stroke="none" class="fill" />
+    <path d="M 0 37  L 0 13  C 0 5.72  5.72 0  13 0  L 127 0  C 134.28 0  140 5.72  140 13  L 140 37  C 140 44.28  134.28 50  127 50  L 13 50  C 5.72 50  0 44.28  0 37  Z " stroke-width="8" stroke-dasharray="0" stroke="url(#LinearGradient3199)" fill="none" class="stroke" mask="url(#Clip3204)" />
   </g>
 </svg>

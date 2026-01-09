@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="805px" height="407px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="414.8305084745763" cy="197.5084745762712" r="407.0000000000008" gradientTransform="matrix(4.1899325941627447E-16 1 -0.9999999999999972 4.189932594162733E-16 612.3389830508468 -217.32203389830514 )" gradientUnits="userSpaceOnUse" id="RadialGradient2588">
-      <stop id="Stop2589" stop-color="#553d9c" offset="0" />
-      <stop id="Stop2590" stop-color="#372562" offset="1" />
+    <radialGradient cx="414.8305084745763" cy="197.5084745762712" r="407.0000000000008" gradientTransform="matrix(4.1899325941627447E-16 1 -0.9999999999999972 4.189932594162733E-16 612.3389830508468 -217.32203389830514 )" gradientUnits="userSpaceOnUse" id="RadialGradient3344">
+      <stop id="Stop3345" stop-color="#553d9c" offset="0" />
+      <stop id="Stop3346" stop-color="#372562" offset="1" />
     </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip2591">
+    <mask fill="white" id="Clip3347">
       <path d="M 0 402  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 800 0  C 802.8000000000001 0  805 2.1999999999999997  805 5  L 805 402  C 805 404.8  802.8000000000001 407  800 407  L 5 407  C 2.1999999999999997 407  0 404.8  0 402  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g>
-    <path d="M 0 402  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 800 0  C 802.8000000000001 0  805 2.1999999999999997  805 5  L 805 402  C 805 404.8  802.8000000000001 407  800 407  L 5 407  C 2.1999999999999997 407  0 404.8  0 402  Z " fill-rule="nonzero" fill="url(#RadialGradient2588)" stroke="none" class="fill" />
-    <path d="M 0 402  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 800 0  C 802.8000000000001 0  805 2.1999999999999997  805 5  L 805 402  C 805 404.8  802.8000000000001 407  800 407  L 5 407  C 2.1999999999999997 407  0 404.8  0 402  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip2591)" />
+    <path d="M 0 402  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 800 0  C 802.8000000000001 0  805 2.1999999999999997  805 5  L 805 402  C 805 404.8  802.8000000000001 407  800 407  L 5 407  C 2.1999999999999997 407  0 404.8  0 402  Z " fill-rule="nonzero" fill="url(#RadialGradient3344)" stroke="none" class="fill" />
+    <path d="M 0 402  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 800 0  C 802.8000000000001 0  805 2.1999999999999997  805 5  L 805 402  C 805 404.8  802.8000000000001 407  800 407  L 5 407  C 2.1999999999999997 407  0 404.8  0 402  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip3347)" />
   </g>
 </svg>

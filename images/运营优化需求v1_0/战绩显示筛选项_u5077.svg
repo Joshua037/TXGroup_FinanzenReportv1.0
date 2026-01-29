@@ -2,13 +2,13 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="163px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <radialGradient cx="81.09113712374563" cy="20.035492457852683" r="191.74720211210962" gradientTransform="matrix(-1 1.3340240799137144E-15 -1.3896432133319377E-16 -0.10416927507199276 162.18227424749125 22.12257518289747 )" gradientUnits="userSpaceOnUse" id="RadialGradient1457">
-      <stop id="Stop1458" stop-color="#edcf7a" offset="0" />
-      <stop id="Stop1459" stop-color="#d2a94b" offset="1" />
+    <radialGradient cx="81.09113712374563" cy="20.035492457852683" r="191.74720211210962" gradientTransform="matrix(-1 1.3340240799137144E-15 -1.3896432133319377E-16 -0.10416927507199276 162.18227424749125 22.12257518289747 )" gradientUnits="userSpaceOnUse" id="RadialGradient538">
+      <stop id="Stop539" stop-color="#edcf7a" offset="0" />
+      <stop id="Stop540" stop-color="#d2a94b" offset="1" />
     </radialGradient>
   </defs>
   <g>
     <path d="M 0 33  L 0 7  C 0 3.079999999999999  3.08 0  7 0  L 163 0  L 163 40  L 7 40  C 3.08 40  0 36.92  0 33  Z M 1 33  L 1 7  C 1 3.6399999999999997  3.6399999999999997 1  7 1  L 163 1  L 163 39  L 7 39  C 3.6399999999999997 39  1 36.36  1 33  Z " fill-rule="nonzero" fill="rgba(37, 14, 79, 1)" stroke="none" class="fill" />
-    <path d="M 163 39  L 7 39  C 3.6399999999999997 39  1 36.36  1 33  L 1 7  C 1 3.6399999999999997  3.6399999999999997 1  7 1  L 163 1  " stroke-width="2" stroke-dasharray="0" stroke="url(#RadialGradient1457)" fill="none" class="stroke" />
+    <path d="M 163 39  L 7 39  C 3.6399999999999997 39  1 36.36  1 33  L 1 7  C 1 3.6399999999999997  3.6399999999999997 1  7 1  L 163 1  " stroke-width="2" stroke-dasharray="0" stroke="url(#RadialGradient538)" fill="none" class="stroke" />
   </g>
 </svg>

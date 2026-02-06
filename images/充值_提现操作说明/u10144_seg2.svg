@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="309 6900 20 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 319 6872  L 319 6909  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
-  <path d="M 319 6870  A 3.5 3.5 0 0 0 315.5 6873.5 A 3.5 3.5 0 0 0 319 6877 A 3.5 3.5 0 0 0 322.5 6873.5 A 3.5 3.5 0 0 0 319 6870 Z M 323.29289321881345 6903.892893218814  L 319 6908.185786437627  L 314.70710678118655 6903.892893218814  L 313.29289321881345 6905.307106781187  L 318.29289321881345 6910.307106781187  L 319 6911.014213562374  L 319.70710678118655 6910.307106781187  L 324.70710678118655 6905.307106781187  L 323.29289321881345 6903.892893218814  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="469 6932 20 18" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip877">
+      <path d="M 391 6928  L 459 6928  L 459 6954  L 391 6954  Z M 359 6928  L 491 6928  L 491 6954  L 359 6954  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 391 6941  L 371 6941  M 459 6941  L 479 6941  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
+  <path d="M 372.5 6937.5  A 3.5 3.5 0 0 0 369 6941 A 3.5 3.5 0 0 0 372.5 6944.5 A 3.5 3.5 0 0 0 376 6941 A 3.5 3.5 0 0 0 372.5 6937.5 Z M 473.89289321881347 6936.707106781187  L 478.1857864376268 6941  L 473.89289321881347 6945.292893218813  L 475.3071067811866 6946.707106781187  L 480.3071067811866 6941.707106781187  L 481.01421356237324 6941  L 480.3071067811866 6940.292893218813  L 475.3071067811866 6935.292893218813  L 473.89289321881347 6936.707106781187  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip877)" />
 </svg>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="177px" height="25px" viewBox="134 179 177 25" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="222.5" y1="179" x2="222.5" y2="204" id="LinearGradient1068">
-      <stop id="Stop1069" stop-color="#624aa3" offset="0" />
-      <stop id="Stop1070" stop-color="#b69aed" offset="0.4" />
-      <stop id="Stop1071" stop-color="#613aca" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="222.5" y1="179" x2="222.5" y2="204" id="LinearGradient169">
+      <stop id="Stop170" stop-color="#624aa3" offset="0" />
+      <stop id="Stop171" stop-color="#b69aed" offset="0.4" />
+      <stop id="Stop172" stop-color="#613aca" offset="1" />
     </linearGradient>
   </defs>
   <path d="M 134 179  L 311 179  L 311 204  L 134 204  L 134 179  Z " fill-rule="nonzero" fill="rgba(60, 39, 97, 1)" stroke="none" class="fill" />
-  <path d="M 135 180  L 310 180  L 310 203  L 135 203  L 135 180  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient1068)" fill="none" class="stroke" />
+  <path d="M 135 180  L 310 180  L 310 203  L 135 203  L 135 180  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient169)" fill="none" class="stroke" />
 </svg>

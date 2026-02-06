@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="688 7426 21 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 700 7435  L 663 7435  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
-  <path d="M 698.5 7431.5  A 3.5 3.5 0 0 0 695 7435 A 3.5 3.5 0 0 0 698.5 7438.5 A 3.5 3.5 0 0 0 702 7435 A 3.5 3.5 0 0 0 698.5 7431.5 Z M 668.1071067811865 7439.292893218813  L 663.8142135623732 7435  L 668.1071067811865 7430.707106781187  L 666.6928932188134 7429.292893218813  L 661.6928932188134 7434.292893218813  L 660.9857864376268 7435  L 661.6928932188134 7435.707106781187  L 666.6928932188134 7440.707106781187  L 668.1071067811865 7439.292893218813  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="208px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="314 7431 208 8" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip885">
+      <path d="M 357 7422  L 425 7422  L 425 7448  L 357 7448  Z M 309 7365  L 532 7365  L 532 7448  L 309 7448  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 319 7377  L 319 7430  A 5 5 0 0 0 324 7435 L 520 7435  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip885)" />
+  <path d="M 319 7375  A 3.5 3.5 0 0 0 315.5 7378.5 A 3.5 3.5 0 0 0 319 7382 A 3.5 3.5 0 0 0 322.5 7378.5 A 3.5 3.5 0 0 0 319 7375 Z M 514.8928932188135 7430.707106781187  L 519.1857864376268 7435  L 514.8928932188135 7439.292893218813  L 516.3071067811866 7440.707106781187  L 521.3071067811866 7435.707106781187  L 522.0142135623732 7435  L 521.3071067811866 7434.292893218813  L 516.3071067811866 7429.292893218813  L 514.8928932188135 7430.707106781187  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip885)" />
 </svg>

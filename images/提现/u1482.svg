@@ -2,16 +2,16 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="208px" height="490px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <radialGradient cx="103.47826086956498" cy="245.43478260869534" r="244.68354625349144" gradientTransform="matrix(-0.9999999999999923 1.2893428246730047E-14 -1.2893428246730147E-14 -1 206.9565217391323 490.8695652173893 )" gradientUnits="userSpaceOnUse" id="RadialGradient994">
-      <stop id="Stop995" stop-color="#edcf7a" offset="0" />
-      <stop id="Stop996" stop-color="#d2a94b" offset="1" />
+    <radialGradient cx="103.47826086956498" cy="245.43478260869534" r="244.68354625349144" gradientTransform="matrix(-0.9999999999999923 1.2893428246730047E-14 -1.2893428246730147E-14 -1 206.9565217391323 490.8695652173893 )" gradientUnits="userSpaceOnUse" id="RadialGradient95">
+      <stop id="Stop96" stop-color="#edcf7a" offset="0" />
+      <stop id="Stop97" stop-color="#d2a94b" offset="1" />
     </radialGradient>
-    <mask fill="white" id="Clip997">
+    <mask fill="white" id="Clip98">
       <path d="M 0 483  L 0 7  C 0 3.0799999999999996  3.079999999999999 0  7 0  L 201 0  C 204.92000000000002 0  208 3.0799999999999996  208 7  L 208 483  C 208 486.91999999999996  204.92000000000002 490  201 490  L 7 490  C 3.079999999999999 490  0 486.91999999999996  0 483  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -69 -938 )">
     <path d="M 0 483  L 0 7  C 0 3.0799999999999996  3.079999999999999 0  7 0  L 201 0  C 204.92000000000002 0  208 3.0799999999999996  208 7  L 208 483  C 208 486.91999999999996  204.92000000000002 490  201 490  L 7 490  C 3.079999999999999 490  0 486.91999999999996  0 483  Z " fill-rule="nonzero" fill="rgba(30, 152, 215, 0)" stroke="none" transform="matrix(1 0 0 1 69 938 )" class="fill" />
-    <path d="M 0 483  L 0 7  C 0 3.0799999999999996  3.079999999999999 0  7 0  L 201 0  C 204.92000000000002 0  208 3.0799999999999996  208 7  L 208 483  C 208 486.91999999999996  204.92000000000002 490  201 490  L 7 490  C 3.079999999999999 490  0 486.91999999999996  0 483  Z " stroke-width="8" stroke-dasharray="0" stroke="url(#RadialGradient994)" fill="none" transform="matrix(1 0 0 1 69 938 )" class="stroke" mask="url(#Clip997)" />
+    <path d="M 0 483  L 0 7  C 0 3.0799999999999996  3.079999999999999 0  7 0  L 201 0  C 204.92000000000002 0  208 3.0799999999999996  208 7  L 208 483  C 208 486.91999999999996  204.92000000000002 490  201 490  L 7 490  C 3.079999999999999 490  0 486.91999999999996  0 483  Z " stroke-width="8" stroke-dasharray="0" stroke="url(#RadialGradient95)" fill="none" transform="matrix(1 0 0 1 69 938 )" class="stroke" mask="url(#Clip98)" />
   </g>
 </svg>

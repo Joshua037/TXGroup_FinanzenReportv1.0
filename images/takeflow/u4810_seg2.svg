@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="21px" preserveAspectRatio="xMidYMin meet" viewBox="430 1083 18 21" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip1378">
+    <mask fill="white" id="Clip479">
       <path d="M 425 1229  L 453 1229  L 453 1255  L 425 1255  Z M 299 1080  L 453 1080  L 453 1274  L 299 1274  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 439 1092  L 439 1259  A 5 5 0 0 1 434 1264 L 311 1264  " stroke-width="2" stroke-dasharray="0" stroke="rgba(0, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip1378)" />
-  <path d="M 439 1090  A 3.5 3.5 0 0 0 435.5 1093.5 A 3.5 3.5 0 0 0 439 1097 A 3.5 3.5 0 0 0 442.5 1093.5 A 3.5 3.5 0 0 0 439 1090 Z M 316.10710678118653 1268.2928932188136  L 311.81421356237297 1264  L 316.10710678118653 1259.7071067811864  L 314.6928932188134 1258.2928932188136  L 309.6928932188134 1263.2928932188136  L 308.985786437627 1264  L 309.6928932188134 1264.7071067811864  L 314.6928932188134 1269.7071067811864  L 316.10710678118653 1268.2928932188136  Z " fill-rule="nonzero" fill="rgba(0, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip1378)" />
+  <path d="M 439 1092  L 439 1259  A 5 5 0 0 1 434 1264 L 311 1264  " stroke-width="2" stroke-dasharray="0" stroke="rgba(0, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip479)" />
+  <path d="M 439 1090  A 3.5 3.5 0 0 0 435.5 1093.5 A 3.5 3.5 0 0 0 439 1097 A 3.5 3.5 0 0 0 442.5 1093.5 A 3.5 3.5 0 0 0 439 1090 Z M 316.10710678118653 1268.2928932188136  L 311.81421356237297 1264  L 316.10710678118653 1259.7071067811864  L 314.6928932188134 1258.2928932188136  L 309.6928932188134 1263.2928932188136  L 308.985786437627 1264  L 309.6928932188134 1264.7071067811864  L 314.6928932188134 1269.7071067811864  L 316.10710678118653 1268.2928932188136  Z " fill-rule="nonzero" fill="rgba(0, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip479)" />
 </svg>

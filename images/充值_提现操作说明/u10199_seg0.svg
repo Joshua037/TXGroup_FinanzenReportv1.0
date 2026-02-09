@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="44 7796 35 8" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 46 7800  L 72 7800  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
-  <path d="M 47.5 7796.5  A 3.5 3.5 0 0 0 44 7800 A 3.5 3.5 0 0 0 47.5 7803.5 A 3.5 3.5 0 0 0 51 7800 A 3.5 3.5 0 0 0 47.5 7796.5 Z M 66.89289321881344 7795.707106781187  L 71.18578643762677 7800  L 66.89289321881344 7804.292893218813  L 68.30710678118655 7805.707106781187  L 73.30710678118655 7800.707106781187  L 74.01421356237321 7800  L 73.30710678118655 7799.292893218813  L 68.30710678118655 7794.292893218813  L 66.89289321881344 7795.707106781187  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="76px" preserveAspectRatio="xMidYMin meet" viewBox="708 6610 8 76" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip1320">
+      <path d="M 608 6668  L 724 6668  L 724 6694  L 608 6694  Z M 540 6600  L 724 6600  L 724 6694  L 540 6694  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 712 6612  L 712 6676  A 5 5 0 0 1 707 6681 L 552 6681  " stroke-width="2" stroke-dasharray="0" stroke="rgba(0, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip1320)" />
+  <path d="M 712 6610  A 3.5 3.5 0 0 0 708.5 6613.5 A 3.5 3.5 0 0 0 712 6617 A 3.5 3.5 0 0 0 715.5 6613.5 A 3.5 3.5 0 0 0 712 6610 Z M 557.1071067811865 6685.292893218813  L 552.8142135623732 6681  L 557.1071067811865 6676.707106781187  L 555.6928932188134 6675.292893218813  L 550.6928932188134 6680.292893218813  L 549.9857864376268 6681  L 550.6928932188134 6681.707106781187  L 555.6928932188134 6686.707106781187  L 557.1071067811865 6685.292893218813  Z " fill-rule="nonzero" fill="rgba(0, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip1320)" />
 </svg>

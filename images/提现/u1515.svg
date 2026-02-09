@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="839px" height="84px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="418.125000000001" cy="-1.0444978215673473E-12" r="248.35990140318694" gradientTransform="matrix(-0.9688560779760137 0.2476245144749131 -0.12499282703233082 -0.48904713828705754 823.2279476037226 -103.53800011482484 )" gradientUnits="userSpaceOnUse" id="RadialGradient121">
-      <stop id="Stop122" stop-color="#8a68d1" offset="0" />
-      <stop id="Stop123" stop-color="#462e72" offset="1" />
+    <radialGradient cx="418.125000000001" cy="-1.0444978215673473E-12" r="248.35990140318694" gradientTransform="matrix(-0.9688560779760137 0.2476245144749131 -0.12499282703233082 -0.48904713828705754 823.2279476037226 -103.53800011482484 )" gradientUnits="userSpaceOnUse" id="RadialGradient591">
+      <stop id="Stop592" stop-color="#8a68d1" offset="0" />
+      <stop id="Stop593" stop-color="#462e72" offset="1" />
     </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="419.5" y1="0" x2="419.5" y2="84" id="LinearGradient124">
-      <stop id="Stop125" stop-color="#f0eaaf" offset="0" />
-      <stop id="Stop126" stop-color="#c7aa48" offset="0.19" />
-      <stop id="Stop127" stop-color="#a2702a" offset="0.4" />
-      <stop id="Stop128" stop-color="#9b6624" offset="0.65" />
-      <stop id="Stop129" stop-color="#c19e36" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="419.5" y1="0" x2="419.5" y2="84" id="LinearGradient594">
+      <stop id="Stop595" stop-color="#f0eaaf" offset="0" />
+      <stop id="Stop596" stop-color="#c7aa48" offset="0.19" />
+      <stop id="Stop597" stop-color="#a2702a" offset="0.4" />
+      <stop id="Stop598" stop-color="#9b6624" offset="0.65" />
+      <stop id="Stop599" stop-color="#c19e36" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -289 -1354 )">
-    <path d="M 0 84  L 0 0  L 839 0  L 839 84  L 0 84  Z " fill-rule="nonzero" fill="url(#RadialGradient121)" stroke="none" transform="matrix(1 0 0 1 289 1354 )" class="fill" />
-    <path d="M 0 1.5  L 839 1.5  " stroke-width="3" stroke-dasharray="0" stroke="url(#LinearGradient124)" fill="none" transform="matrix(1 0 0 1 289 1354 )" class="stroke" />
+    <path d="M 0 84  L 0 0  L 839 0  L 839 84  L 0 84  Z " fill-rule="nonzero" fill="url(#RadialGradient591)" stroke="none" transform="matrix(1 0 0 1 289 1354 )" class="fill" />
+    <path d="M 0 1.5  L 839 1.5  " stroke-width="3" stroke-dasharray="0" stroke="url(#LinearGradient594)" fill="none" transform="matrix(1 0 0 1 289 1354 )" class="stroke" />
   </g>
 </svg>

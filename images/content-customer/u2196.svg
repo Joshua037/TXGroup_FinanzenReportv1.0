@@ -2,14 +2,14 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="64" y2="40" id="LinearGradient342">
-      <stop id="Stop343" stop-color="#cfc6f5" offset="0" />
-      <stop id="Stop344" stop-color="#a294e8" offset="0.22" />
-      <stop id="Stop345" stop-color="#7b75cd" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="64" y2="40" id="LinearGradient812">
+      <stop id="Stop813" stop-color="#cfc6f5" offset="0" />
+      <stop id="Stop814" stop-color="#a294e8" offset="0.22" />
+      <stop id="Stop815" stop-color="#7b75cd" offset="1" />
     </linearGradient>
   </defs>
   <g>
     <path d="M 0 40  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 123 0  C 125.8 0  128 2.1999999999999997  128 5  L 128 40  L 0 40  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 0)" stroke="none" class="fill" />
-    <path d="M 128 38.5  L 0 38.5  " stroke-width="3" stroke-dasharray="0" stroke="url(#LinearGradient342)" fill="none" class="stroke" />
+    <path d="M 128 38.5  L 0 38.5  " stroke-width="3" stroke-dasharray="0" stroke="url(#LinearGradient812)" fill="none" class="stroke" />
   </g>
 </svg>

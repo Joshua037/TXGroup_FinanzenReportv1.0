@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="184px" height="52px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="91.53846153846132" cy="26.046140195208487" r="216.45082937808695" gradientTransform="matrix(-1 1.5428681274485153E-15 -1.8508941511183745E-16 -0.11996450754214819 183.07692307692267 29.17075257710028 )" gradientUnits="userSpaceOnUse" id="RadialGradient262">
-      <stop id="Stop263" stop-color="#edcf7a" offset="0" />
-      <stop id="Stop264" stop-color="#d2a94b" offset="1" />
+    <radialGradient cx="91.53846153846132" cy="26.046140195208487" r="216.45082937808695" gradientTransform="matrix(-1 1.5428681274485153E-15 -1.8508941511183745E-16 -0.11996450754214819 183.07692307692267 29.17075257710028 )" gradientUnits="userSpaceOnUse" id="RadialGradient732">
+      <stop id="Stop733" stop-color="#edcf7a" offset="0" />
+      <stop id="Stop734" stop-color="#d2a94b" offset="1" />
     </radialGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="92" y1="0" x2="92" y2="52" id="LinearGradient265">
-      <stop id="Stop266" stop-color="#e1dafb" offset="0" />
-      <stop id="Stop267" stop-color="#6f6ec5" offset="0.44" />
-      <stop id="Stop268" stop-color="#cec8f2" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="92" y1="0" x2="92" y2="52" id="LinearGradient735">
+      <stop id="Stop736" stop-color="#e1dafb" offset="0" />
+      <stop id="Stop737" stop-color="#6f6ec5" offset="0.44" />
+      <stop id="Stop738" stop-color="#cec8f2" offset="1" />
     </linearGradient>
-    <mask fill="white" id="Clip269">
+    <mask fill="white" id="Clip739">
       <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -294 -339 )">
-    <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " fill-rule="nonzero" fill="url(#RadialGradient262)" stroke="none" transform="matrix(1 0 0 1 294 339 )" class="fill" />
-    <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " stroke-width="6" stroke-dasharray="0" stroke="url(#LinearGradient265)" fill="none" transform="matrix(1 0 0 1 294 339 )" class="stroke" mask="url(#Clip269)" />
+    <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " fill-rule="nonzero" fill="url(#RadialGradient732)" stroke="none" transform="matrix(1 0 0 1 294 339 )" class="fill" />
+    <path d="M 0 40  L 0 12  C 0 5.28  5.279999999999999 0  12 0  L 172 0  C 178.72 0  184 5.28  184 12  L 184 40  C 184 46.72  178.72 52  172 52  L 12 52  C 5.279999999999999 52  0 46.72  0 40  Z " stroke-width="6" stroke-dasharray="0" stroke="url(#LinearGradient735)" fill="none" transform="matrix(1 0 0 1 294 339 )" class="stroke" mask="url(#Clip739)" />
   </g>
 </svg>

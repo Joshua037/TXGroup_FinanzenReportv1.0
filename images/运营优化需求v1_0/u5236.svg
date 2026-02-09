@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="187px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="-1.6608936448392342E-13" y1="20.58823529411768" x2="183.03352941176465" y2="20.58823529411768" id="LinearGradient635">
-      <stop id="Stop636" stop-color="#f2f2f2" stop-opacity="0" offset="0" />
-      <stop id="Stop637" stop-color="#bf15ee" stop-opacity="0.2901960784313726" offset="0.08" />
-      <stop id="Stop638" stop-color="#af13d9" stop-opacity="0.9921568627450981" offset="0.32" />
-      <stop id="Stop639" stop-color="#a812d0" stop-opacity="0.9921568627450981" offset="0.65" />
-      <stop id="Stop640" stop-color="#a212c7" stop-opacity="0.6352941176470588" offset="0.88" />
-      <stop id="Stop641" stop-color="#a212c7" stop-opacity="0" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-1.6608936448392342E-13" y1="20.58823529411768" x2="183.03352941176465" y2="20.58823529411768" id="LinearGradient1105">
+      <stop id="Stop1106" stop-color="#f2f2f2" stop-opacity="0" offset="0" />
+      <stop id="Stop1107" stop-color="#bf15ee" stop-opacity="0.2901960784313726" offset="0.08" />
+      <stop id="Stop1108" stop-color="#af13d9" stop-opacity="0.9921568627450981" offset="0.32" />
+      <stop id="Stop1109" stop-color="#a812d0" stop-opacity="0.9921568627450981" offset="0.65" />
+      <stop id="Stop1110" stop-color="#a212c7" stop-opacity="0.6352941176470588" offset="0.88" />
+      <stop id="Stop1111" stop-color="#a212c7" stop-opacity="0" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip642">
+    <mask fill="white" id="Clip1112">
       <path d="M 0 40  L 0 0  L 187 0  L 187 40  L 0 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -26 -99 )">
-    <path d="M 0 40  L 0 0  L 187 0  L 187 40  L 0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient635)" stroke="none" transform="matrix(1 0 0 1 26 99 )" class="fill" />
-    <path d="M 0 40  L 0 0  L 187 0  L 187 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 26 99 )" class="stroke" mask="url(#Clip642)" />
+    <path d="M 0 40  L 0 0  L 187 0  L 187 40  L 0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient1105)" stroke="none" transform="matrix(1 0 0 1 26 99 )" class="fill" />
+    <path d="M 0 40  L 0 0  L 187 0  L 187 40  L 0 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 26 99 )" class="stroke" mask="url(#Clip1112)" />
   </g>
 </svg>

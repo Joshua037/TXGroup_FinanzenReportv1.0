@@ -2,16 +2,16 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="202px" height="140px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="101" y1="0" x2="101" y2="140" id="LinearGradient555">
-      <stop id="Stop556" stop-color="#f0e59f" offset="0" />
-      <stop id="Stop557" stop-color="#c29b56" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="101" y1="0" x2="101" y2="140" id="LinearGradient1025">
+      <stop id="Stop1026" stop-color="#f0e59f" offset="0" />
+      <stop id="Stop1027" stop-color="#c29b56" offset="1" />
     </linearGradient>
-    <mask fill="white" id="Clip558">
+    <mask fill="white" id="Clip1028">
       <path d="M 0 135  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 197 0  C 199.8 0  202 2.1999999999999997  202 5  L 202 135  C 202 137.8  199.8 140  197 140  L 5 140  C 2.1999999999999997 140  0 137.8  0 135  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g>
     <path d="M 0 135  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 197 0  C 199.8 0  202 2.1999999999999997  202 5  L 202 135  C 202 137.8  199.8 140  197 140  L 5 140  C 2.1999999999999997 140  0 137.8  0 135  Z " fill-rule="nonzero" fill="rgba(46, 21, 92, 1)" stroke="none" class="fill" />
-    <path d="M 0 135  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 197 0  C 199.8 0  202 2.1999999999999997  202 5  L 202 135  C 202 137.8  199.8 140  197 140  L 5 140  C 2.1999999999999997 140  0 137.8  0 135  Z " stroke-width="6" stroke-dasharray="0" stroke="url(#LinearGradient555)" fill="none" class="stroke" mask="url(#Clip558)" />
+    <path d="M 0 135  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 197 0  C 199.8 0  202 2.1999999999999997  202 5  L 202 135  C 202 137.8  199.8 140  197 140  L 5 140  C 2.1999999999999997 140  0 137.8  0 135  Z " stroke-width="6" stroke-dasharray="0" stroke="url(#LinearGradient1025)" fill="none" class="stroke" mask="url(#Clip1028)" />
   </g>
 </svg>
